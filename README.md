@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kris</h1>
 <h3 align="center">A passionate frontend developer from the United States</h3>
 
-- 🌱 I am a  **Full Stack Developer and Engineer**
+- 🌱 I am a  **Full Stack Developer and Software Engineer**
 
 - 👯 I’m looking to collaborate on **Projects that will help create an easier ability for veterans to stay in contact. As well as affordable gps systems for disabled and elderly.**
 
